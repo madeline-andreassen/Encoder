@@ -1,0 +1,91 @@
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\ApplicationInsights.config
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Ag Leader Technology Technical Question.dll.config
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Ag Leader Technology Technical Question.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Ag Leader Technology Technical Question.pdb
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\csc.exe
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\csc.exe.config
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\csc.rsp
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\csi.exe
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\csi.exe.config
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\csi.rsp
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.AppContext.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Console.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.IO.Compression.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Security.Claims.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.ValueTuple.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\vbc.exe
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\vbc.exe.config
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\vbc.rsp
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\VBCSCompiler.exe
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Antlr3.Runtime.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AI.Web.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.ApplicationInsights.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Newtonsoft.Json.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.Helpers.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.Mvc.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.Optimization.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.Razor.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.WebPages.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.WebPages.Razor.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\WebGrease.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.Helpers.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.Mvc.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.Optimization.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.Razor.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.WebPages.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Web.WebPages.Razor.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Newtonsoft.Json.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Antlr3.Runtime.pdb
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.AI.Web.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\obj\Debug\Ag Leader Technology Technical Question.csprojAssemblyReference.cache
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\obj\Debug\Ag Leader Technology Technical Question.csproj.CoreCompileInputs.cache
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\obj\Debug\Ag Leader Technology Technical Question.csproj.CopyComplete
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\obj\Debug\Ag Leader Technology Technical Question.dll
+C:\Users\maddiem\source\repos\Ag Leader Technology Technical Question\Ag Leader Technology Technical Question\obj\Debug\Ag Leader Technology Technical Question.pdb

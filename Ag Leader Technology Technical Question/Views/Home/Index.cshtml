@@ -1,0 +1,46 @@
+﻿@* Imports the model passed from the controller *@
+@model Ag_Leader_Technology_Technical_Question.Models.Index
+
+<body>
+    <p>
+        @Model.Text
+    </p>
+    <!-- Determines which information to display on the page. -->
+    @if (Model.EncodedText == null)
+    {
+        <!-- Form for submitting a sequence of characters. -->
+        using (Html.BeginForm("Index", "Home", FormMethod.Post))
+        {
+            @Html.TextBoxFor(m => m.InputText);
+            <input type="submit" value="Submit" />
+        }
+    }
+    else
+    {
+        <!-- Results from a submitted sequence of characters. -->
+        @Html.ActionLink("Generate another", "Index", "Home", new { @class = "elements" }, null)
+        <p>
+            @Model.EncodedText
+        </p>
+    }
+    <!-- Displays the Decoding Table at the bottom of the page. -->
+    @if (Model.DecodingTable != null)
+    {
+        <table cellpadding="10">
+            <tr>
+                @foreach (var alpha in Model.DecodingTable.AlphaNumeric)
+                {
+                    <td>@alpha</td>
+                }
+            </tr>
+            <tr>
+                @foreach (var cyr in Model.DecodingTable.Cyrillic)
+                {
+                    <td>@cyr</td>
+                }
+            </tr>
+        </table>
+    }
+</body>
+
+
